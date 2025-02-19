@@ -4,8 +4,6 @@
 **Intern Name:** Rajat Gupta  
 **Email:** rajatgupta46300@gmail.com  
 **Offered by:** CipherByte Technology  
-**Internship Duration:** [Specify Duration]  
-**Mentor/Supervisor:** [Specify Mentor Name]  
 
 ## Project Overview
 During this internship, I worked on multiple machine learning projects focused on classification tasks. The primary objective was to develop, train, and evaluate machine learning models for real-world applications. The projects included predictive modeling, text classification, and feature engineering for enhanced accuracy and efficiency.
